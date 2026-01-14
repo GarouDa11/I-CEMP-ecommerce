@@ -61,7 +61,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# I-CEMP-ecommerce" 
 
 
-Step to Run in system:
+# Step to Run in system:
 1. Download ZIP file
 2. Open xampp --> start SQL --> click admin --> create database name "icemp_db"
 3. Open terminal
