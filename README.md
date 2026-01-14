@@ -59,3 +59,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# I-CEMP-ecommerce" 
 "# I-CEMP-ecommerce" 
+
+
+Step to Run in system:
+1. Download ZIP file
+2. Open xampp --> start SQL --> click admin --> create database name "icemp_db"
+3. Open terminal
+4. prompt "php artisan migrate" to generate table
+5. prompt "php artisan db:seed --class=UserSeeder" to declare instance users buyer / seller
+6. prompt "php artisan serve" to run the file
+7. copy paste url link
+8. enjoy
